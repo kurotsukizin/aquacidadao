@@ -4,11 +4,7 @@ POC de monitoramento e alerta de possivel desperdicio de agua em residencias e e
 
 ## Integrantes
 
-- [Nome completo - RM]
-- [Nome completo - RM]
-- [Nome completo - RM]
-- [Nome completo - RM]
-- [Nome completo - RM]
+- Guilherme Cabral Mendes Mariano | 574221
 
 ## Problema
 
