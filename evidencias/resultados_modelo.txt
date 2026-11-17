@@ -1,0 +1,6 @@
+Este arquivo sera gerado automaticamente apos a execucao de:
+
+python src/modelo_risco.py
+
+Ele contera acuracia, acuracia balanceada, F1-score macro,
+relatorio de classificacao e matriz de confusao.

@@ -1,0 +1,20 @@
+TESTE DE FUNCIONAMENTO - AQUACIDADAO
+
+1. Execucao do gerador de base
+Comando: python src/gerar_base.py
+Resultado esperado: criacao de data/consumo_bruto.csv com 2.880 registros.
+
+2. Execucao do tratamento
+Comando: python src/tratamento_dados.py
+Resultado esperado: criacao de consumo_tratado.csv, resumo_diario.csv e relatorio_tratamento.txt.
+
+3. Execucao da analise
+Comando: python src/analise_consumo.py
+Resultado esperado: geracao de graficos em images/.
+
+4. Execucao do modelo
+Comando: python src/modelo_risco.py
+Resultado esperado: geracao de resultados_modelo.txt com acuracia, F1-score macro e matriz de confusao.
+
+5. Simulacao no Wokwi
+Ao acionar o sensor de fluxo, o monitor serial deve exibir vazao, volume e estado do alerta.

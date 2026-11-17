@@ -1,0 +1,39 @@
+ESTRUTURA DO PDF DE ENTREGA
+
+1. Capa
+- Nome completo dos integrantes
+- RM de cada integrante
+- Turma
+- Nome do projeto: AquaCidadao
+
+2. Introducao
+- Problema do desperdicio de agua
+- Publico beneficiado
+- Objetivo da POC
+
+3. Desenvolvimento
+- Arquitetura da solucao
+- Sensores e ESP32
+- Base de dados simulada
+- Tratamento e analise
+- Modelo de classificacao
+- Banco PostgreSQL
+
+4. Resultados
+- Graficos
+- Indicadores
+- Metricas do modelo
+- Evidencias de teste
+
+5. Conclusoes
+- Beneficios
+- Limitacoes
+- Proximos passos
+
+6. ODS e impacto
+- ODS 6, 11 e 12
+- Indicadores de impacto
+
+7. Links
+- Repositorio privado compartilhado com fiap-tutoria
+- Video nao listado no YouTube
